@@ -15,4 +15,9 @@ public class HomeController {
 	public String index(){
 		return "index";
 	}
+
+	@RequestMapping("/simple")
+	public String indexSimple(){
+		return "simple";
+	}
 }

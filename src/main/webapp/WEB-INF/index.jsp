@@ -13,6 +13,7 @@
     }
 </style>
 <body>
+<script src="//code.jquery.com/jquery.min.js"></script>
 <script src="//d3js.org/d3.v3.min.js"></script>
 <script src="//d3js.org/topojson.v1.min.js"></script>
 <script src="http://d3js.org/topojson.v0.min.js"></script>
